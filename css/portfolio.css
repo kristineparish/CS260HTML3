@@ -45,3 +45,16 @@ nav li a:hover {
 nav .active {
   background-color: slateblue;
 }*/
+
+/*---------------Front Page Content-----------*/
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
