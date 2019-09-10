@@ -39,5 +39,5 @@ nav li a:hover:not(.active) {
 }
 
 nav .active {
-  background-color: #4CAF50;
+  background-color: slateblue;
 }
