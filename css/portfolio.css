@@ -34,10 +34,14 @@ nav li a {
   text-decoration: none;
 }
 
-nav li a:hover:not(.active) {
+nav li a:hover {
+  background-color: #111;
+}
+
+/*nav li a:hover:not(.active) {
   background-color: #111;
 }
 
 nav .active {
-  /*background-color: slateblue;*/
-}
+  background-color: slateblue;
+}*/
