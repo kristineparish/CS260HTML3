@@ -3,16 +3,12 @@ body {
 }
 
 h1 {
-	color: red;
-}
-
-h2 {
 	color: slateblue;
 }
 
 p {
 	color: gray;
 	border: solid 1px green;
-	border-radius: 5px;
     padding: 20px;
+    border-radius: 5px;
 }
